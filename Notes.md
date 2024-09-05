@@ -6,6 +6,7 @@
 * `Project Name` >   `React` > `Javascript`
 *     cd frontend
 *     npm i
+*     cls
 <br>
 
 ## Backend
